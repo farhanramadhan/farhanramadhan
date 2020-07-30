@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-- 🌱 I’m currently learning Software Development
+- 🌱 I’m currently learning Software Development and some stuff xD
 - 💬 Ask me about anything :)
 - 📫 How to reach me: farhanramadhansk@gmail.com / [My LinkedIn](https://www.linkedin.com/in/farhanramadhansk/)
 
