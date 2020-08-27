@@ -4,7 +4,7 @@
 - 💬 Ask me about anything :)
 - 📫 How to reach me: farhanramadhansk@gmail.com / [My LinkedIn](https://www.linkedin.com/in/farhanramadhansk/)
 
-![Hello](pictures/minion.gif)
+![Hello](https://github.com/farhanramadhan/farhanramadhan/blob/master/pictures/minion.gif)
 
 <!--
 **farhanramadhan/farhanramadhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
